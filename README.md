@@ -19,19 +19,20 @@ drivetrain: type of drivetrain (front, rear, all)
 feature_1 - feature_9: these features are boolean values about properties of the car
 duration_listed: the number of days the car is listed in the catalog
 price_usd: price of the car in USD
-The model should predict:
 
+The model should predict:
 Car Price
+
 This exercise to find the best regression model based on the
-Mean square error
-Mean absolute error
-r2 score
+1. Mean square error
+2. Mean absolute error
+3. r2 score
 
 Linear Model are using as follow :
-Linear regression as baseline
-Ridge
-Lasso
-KNN
-Decission Tree
-Random Forrest
-Support Vector
+1. Linear regression as baseline
+2. Ridge
+3. Lasso
+4. KNN
+5. Decission Tree
+6. Random Forrest
+7. Support Vector
