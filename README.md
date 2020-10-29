@@ -23,17 +23,11 @@ The model should predict:
 
 Car Price
 This exercise to find the best regression model based on the
-
 Mean square error
 Mean absolute error
 r2 score
-$$\begin{equation*}
-MSE = {\frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y}_{i})^{2}}
-\end{equation*}$$
-
 
 Linear Model are using as follow :
-
 Linear regression as baseline
 Ridge
 Lasso
